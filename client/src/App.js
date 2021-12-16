@@ -77,6 +77,7 @@ function App() {
   async function move(id) {
     try {
       await state.contract.methods.move(id).send({ from: state.accounts[0] });
+      alert("move taken");
     } catch {
       console.log("failed");
     }
