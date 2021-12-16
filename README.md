@@ -23,3 +23,5 @@
 - player can get jackpot with escape() if opponent is afk for 20 blocks, or if opponent didin't join. If afk who gets jackpot is oppososite of whos turn it is.
 - You can check game state with player1(), player2(), getBoard(), checkJackpot().
 - Thats all.
+## Ropsten Etherscan
+- https://ropsten.etherscan.io/address/0xc0f572fb5d9232d95b674c0b510b44a25f7fa7bb
